@@ -1,4 +1,4 @@
-# Simple-Banking-System
+# Simple Banking System
 Java application that simulates very simple banking system and stores users data in an SQL database.
 # Features
 - Create credit cards
